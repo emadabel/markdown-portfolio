@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+* Reading
+* Drawing
+* Computer games
+* Puzzles
+* Watching movies
